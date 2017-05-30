@@ -15,11 +15,11 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
-package it.arces.unibo.wot.SEPA.commons.response;
+package it.unibo.arces.wot.SEPA.commons.response;
 
 import com.google.gson.JsonPrimitive;
 
-import it.arces.unibo.wot.SEPA.commons.response.Response;
+import it.unibo.arces.wot.SEPA.commons.response.Response;
 
 /**
  * This class represents the response to a SPARQL 1.1 Subscribe (see SPARQL 1.1

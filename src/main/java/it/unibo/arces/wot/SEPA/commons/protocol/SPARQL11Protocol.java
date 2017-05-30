@@ -45,16 +45,16 @@ import com.google.gson.JsonParseException;
 import com.google.gson.JsonParser;
 import com.google.gson.JsonPrimitive;
 
-import it.arces.unibo.wot.SEPA.commons.response.ErrorResponse;
-import it.arces.unibo.wot.SEPA.commons.response.QueryResponse;
-import it.arces.unibo.wot.SEPA.commons.response.Response;
-import it.arces.unibo.wot.SEPA.commons.response.UpdateResponse;
 import it.unibo.arces.wot.SEPA.commons.protocol.SPARQL11Properties.HTTPMethod;
 import it.unibo.arces.wot.SEPA.commons.protocol.SPARQL11Properties.QueryResultsFormat;
 import it.unibo.arces.wot.SEPA.commons.protocol.SPARQL11Properties.SPARQLPrimitive;
 import it.unibo.arces.wot.SEPA.commons.request.QueryRequest;
 import it.unibo.arces.wot.SEPA.commons.request.Request;
 import it.unibo.arces.wot.SEPA.commons.request.UpdateRequest;
+import it.unibo.arces.wot.SEPA.commons.response.ErrorResponse;
+import it.unibo.arces.wot.SEPA.commons.response.QueryResponse;
+import it.unibo.arces.wot.SEPA.commons.response.Response;
+import it.unibo.arces.wot.SEPA.commons.response.UpdateResponse;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
