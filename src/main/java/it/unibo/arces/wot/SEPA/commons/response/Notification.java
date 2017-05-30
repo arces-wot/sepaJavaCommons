@@ -20,7 +20,7 @@ package it.unibo.arces.wot.SEPA.commons.response;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonPrimitive;
 
-import it.unibo.arces.wot.SEPA.commons.SPARQL.ARBindingsResults;
+import it.unibo.arce.wot.SEPA.commons.SPARQL.ARBindingsResults;
 
 /**
  * This class represents a SPARQL Notification (see SPARQL 1.1 Subscription
